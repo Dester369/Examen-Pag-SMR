@@ -1,0 +1,40 @@
+*{
+    background-color: wheat;
+}
+
+h1{
+    
+    color: orange;
+    text-align: center;
+    border-top: 1px black solid;
+    border-bottom: 1px solid black;
+    padding: 2px;
+    text-decoration: underline blue;
+}
+
+table {
+    width: 50%;
+
+    margin: 20px 0;
+    color: red;
+    float: left;
+}
+
+th {
+    border: 1px solid  black;
+    padding: 8px;
+    text-align: center;
+   
+}
+
+div.final{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+    border-top: 1px black solid;
+    border-bottom: 1px solid black;
+    margin-top: 15%;
+}
+p.final{
+    background-color: yellow;
+}
